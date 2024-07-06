@@ -1,0 +1,7 @@
+[
+  {"CustomerID": 1, "Name": "Alice Johnson", "Age": 32, "Email": "alice.johnson@example.com"},
+  {"CustomerID": 2, "Name": "Bob Smith", "Age": 45, "Email": "bob.smith@example.com"},
+  {"CustomerID": 3, "Name": "Eva Brown", "Age": 28, "Email": "eva.brown@example.com"},
+  {"CustomerID": 4, "Name": "David Lee", "Age": 51, "Email": "david.lee@example.com"},
+  {"CustomerID": 5, "Name": "Sophia Kim", "Age": 38, "Email": "sophia.kim@example.com"}
+]
