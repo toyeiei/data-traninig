@@ -1,0 +1,6 @@
+id|name|age|major
+11|Olivia Martinez|20|marketing
+12|Noah Taylor|22|econ
+13|Ava Anderson|19|engineer
+14|Liam Thomas|21|marketing
+15|Isabella Jackson|20|econ
